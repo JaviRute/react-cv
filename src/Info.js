@@ -19,7 +19,7 @@ function Info(props) {
       <a href="https://github.com/JaviRute"><i className="fa-brands fa-github ico"></i></a>
       <a href="https://www.hyperiondev.com/portfolio/101528/"><img className="ico-image" src={logo} alt="HyperionDev logo"></img></a>
       <br />
-      <p className="small-text">{ data.infoObj.react }<a className="bold" href="https://javirute.github.io/react-cv/"> my GitHub repo.</a></p>
+      <p className="small-text">{ data.infoObj.react }<a className="bold" href="https://github.com/JaviRute/react-cv"> my GitHub repo.</a></p>
     </div>
   );
 }
