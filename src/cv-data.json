@@ -44,17 +44,17 @@
         "tech2": "CSS3",
         "tech3": "JavaScript",
         "tech4": "React",
-        "tech4": "Redux",
-        "tech5": "Bootstrap",
-        "tech6": "jQuery",
-        "tech7": "Python",
-        "tech8": "Flask",
-        "tech9": "TKinter",
-        "tech10": "Selenium",
-        "tech11": "Numpy",
-        "tech12": "Plotly",
-        "tech13": "Matplotlib",
-        "tech14": "GitHub"
+        "tech5": "Redux",
+        "tech6": "Bootstrap",
+        "tech7": "jQuery",
+        "tech8": "Python",
+        "tech9": "Flask",
+        "tech10": "TKinter",
+        "tech11": "Selenium",
+        "tech12": "Numpy",
+        "tech13": "Plotly",
+        "tech14": "Matplotlib",
+        "tech15": "GitHub"
     },
     "projectsObj": {
         "project1": {
