@@ -27,6 +27,9 @@ function Projects(props) {
 
       <a href={ data.projectsObj.project6.link}><h4>{ data.projectsObj.project6.title}</h4></a>
       <p>{ data.projectsObj.project6.description}</p>
+
+      <a href={ data.projectsObj.project7.link}><h4>{ data.projectsObj.project7.title}</h4></a>
+      <p>{ data.projectsObj.project7.description}</p>
     </div>
   );
 }
