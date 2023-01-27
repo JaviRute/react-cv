@@ -44,6 +44,7 @@
         "tech2": "CSS3",
         "tech3": "JavaScript",
         "tech4": "React",
+        "tech4": "Redux",
         "tech5": "Bootstrap",
         "tech6": "jQuery",
         "tech7": "Python",
@@ -57,31 +58,36 @@
     },
     "projectsObj": {
         "project1": {
+            "title": "Gov.UK page clone",
+            "description": "A react clone of the GOV.UK page with the links to all sections provided. This page uses props to store the info of the links, and state to dictate which sections to show (cookies, menus, etc).",
+            "link": "https://javirute.github.io/gov-uk-clone/"
+        }, 
+        "project2": {
             "title": "Atomic Coffee",
             "description": "An e-commerce site of a fictitious coffee brand, created with React. The user can log in or out, see his profile, order products, and make payments with or without finance.",
             "link": "https://github.com/JaviRute/"
         }, 
-        "project2": {
+        "project3": {
             "title": "Spanish vocab trainer",
             "description": "This is a GUI app built on Python with TKinter. It contains all GCSE vocab for Spanish Higher, and I am proud to say many of my students put it to good use.",
             "link": "https://github.com/JaviRute/Spanish-vocab-trainer"
         }, 
-        "project3": {
+        "project4": {
             "title": "Spanish verbs trainer",
             "description": "This is a GUI app I created to practice regular Spanish verbs. It asks the user to enter the right form of a Spanish verb in a random tense (past, present, future) and person (I, you, he/she, etc)",
             "link": "https://github.com/JaviRute/Spanish-verbs-practice"
         }, 
-        "project4": {
+        "project5": {
             "title": "The Chuck Norris Jokes App",
             "description": "Another Tkinter app on Python, I created this to work with APIs. It retrieves a joke from the Chuck Norris API, and then translates it through the Google Translate API to 12 languages (including Welsh). ",
             "link": "https://github.com/JaviRute/Chuck-Norris-jokes-app"
         }, 
-        "project5": {
+        "project6": {
             "title": "Data Sciene projects: World Homicide / Top 1000 IMDB movies",
             "description": "My GitHub also contains two projects that I used to showcase my abilities on data manipulation and data visualisation with Numpy, Matplotlib and Plotly.",
             "link": "https://github.com/JaviRute/top_1000_movies-data_science_project"
         }, 
-        "project6": {
+        "project7": {
             "title": "Morse Code Translator (Street Fighter Edition)",
             "description": "Converts your input into morse code using Street Fighter punch sounds.",
             "link": "https://github.com/JaviRute/Morse_code_translator_Street_Fighter_Edition"
