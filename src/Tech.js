@@ -24,6 +24,7 @@ function Tech(props) {
         <p>{techData.tech13}</p>
         <p>{techData.tech14}</p>
         <p>{techData.tech15}</p>
+        <p>{techData.tech16}</p>
       </div>
     </div>
   );
