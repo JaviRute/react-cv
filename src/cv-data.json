@@ -5,7 +5,6 @@
         "email": "jrute@live.com",
         "phone": "07749217750",
         "react": "This is web version of my resume, created with React, with all the information stored on a JSON file. The full source code can be found in "
-
     },
     "linksObj": {
         "portfolio": "https://javirute.github.io/cv/",
@@ -37,7 +36,6 @@
             "line1": "CAP (Equivalent to PGCE - teaching qualification)",
             "line2": "University of Málaga (Certificate with distinction)"
         }
-
     },
     "techObj": {
         "tech1": "HTML5",
@@ -46,68 +44,66 @@
         "tech4": "React",
         "tech5": "Redux",
         "tech6": "Bootstrap",
-        "tech7": "Tailwind"
-        "tech8": "jQuery",
-        "tech9": "Python",
-        "tech10": "Flask",
-        "tech11": "TKinter",
-        "tech12": "Selenium",
-        "tech13": "Numpy",
-        "tech14": "Plotly",
-        "tech15": "Matplotlib",
-        "tech16": "GitHub"
+        "tech7": "jQuery",
+        "tech8": "Python",
+        "tech9": "Flask",
+        "tech10": "TKinter",
+        "tech11": "Selenium",
+        "tech12": "Numpy",
+        "tech13": "Plotly",
+        "tech14": "Matplotlib",
+        "tech15": "GitHub"
     },
     "projectsObj": {
         "project1": {
             "title": "Gov.UK page clone",
             "description": "A react clone of the GOV.UK page with the links to all sections provided. This page uses props to store the info of the links, and state to dictate which sections to show (cookies, menus, etc).",
             "link": "https://javirute.github.io/gov-uk-clone/"
-        }, 
+        },
         "project2": {
             "title": "Atomic Coffee",
             "description": "An e-commerce site of a fictitious coffee brand, created with React. The user can log in or out, see his profile, order products, and make payments with or without finance.",
             "link": "https://javirute.github.io/atomic-coffee/"
-        }, 
+        },
         "project3": {
             "title": "Hangman",
             "description": "React version of hangman, created with function components, styled with Bootstrap.",
             "link": "https://javirute.github.io/hangman/"
-        }, 
+        },
         "project4": {
             "title": "Redux Todo App",
             "description": "Created with React, using Redux for state management and Bootstrap for styling..",
             "link": "https://javirute.github.io/todo/"
-        }, 
+        },
         "project5": {
             "title": "Spanish vocab trainer",
             "description": "This is a GUI app built on Python with TKinter. It contains all GCSE vocab for Spanish Higher, and I am proud to say many of my students put it to good use.",
             "link": "https://github.com/JaviRute/Spanish-vocab-trainer"
-        }, 
+        },
         "project6": {
             "title": "Spanish verbs trainer",
             "description": "This is a GUI app I created to practice regular Spanish verbs. It asks the user to enter the right form of a Spanish verb in a random tense (past, present, future) and person (I, you, he/she, etc)",
             "link": "https://github.com/JaviRute/Spanish-verbs-practice"
-        }, 
+        },
         "project7": {
             "title": "The Chuck Norris Jokes App",
             "description": "Another Tkinter app on Python, I created this to work with APIs. It retrieves a joke from the Chuck Norris API, and then translates it through the Google Translate API to 12 languages (including Welsh). ",
             "link": "https://github.com/JaviRute/Chuck-Norris-jokes-app"
-        }, 
+        },
         "project8": {
             "title": "Data Sciene projects: World Homicide / Top 1000 IMDB movies",
             "description": "My GitHub also contains two projects that I used to showcase my abilities on data manipulation and data visualisation with Numpy, Matplotlib and Plotly.",
             "link": "https://github.com/JaviRute/top_1000_movies-data_science_project"
-        }, 
+        },
         "project9": {
             "title": "Morse Code Translator (Street Fighter Edition)",
             "description": "Converts your input into morse code using Street Fighter punch sounds.",
             "link": "https://github.com/JaviRute/Morse_code_translator_Street_Fighter_Edition"
         }
-
     },
     "workObj": {
-        "job1title": "2017 - 2022 MFL Teacher (Spanish and French)",
-        "job1description1": "I have worked at Hendon School (2020 to 2022), Enfield County School for Girls (2019) and Queen Elizabeth's Girls' School (2017 to 2019), and I have done some temporary contracts at several other schools through recruitment agencies.",
+        "job1title": "2017 - 2024 MFL Teacher",
+        "job1description1": "Currently I am working at Enfield County School for Girls. In the past I have also worked at Hendon School (2019 to 2022), and Queen Elizabeth's Girls' School (2017 to 2019), and I have done some temporary contracts at several other schools through recruitment agencies.",
         "job1description2": "During this time, I developed skills such as preparation of teaching materials, communication with parents and students, patience, verbal and presentation skills, prioritising tasks to deal with workload, and study techniques.",
         "job1description3": "From a more technical perspective, I enhanced my knowledge about MS Office, and learnt to teach online (MS Teams, Google Classroom, Frog).",
         "job2title": "2013 - 2017 Pub Shift Leader",
